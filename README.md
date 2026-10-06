@@ -1,8 +1,8 @@
 # Dwaipayan's AI / GenAI Projects
 
-A collection of hands-on projects exploring **AI, Generative AI, Agentic AI, RAG, LLMs, and modern AI frameworks**.
+A collection of my hands-on projects exploring **Generative AI, Agentic AI, RAG, LLMs, and modern AI frameworks**.
 
-These projects are built primarily for practical experimentation, learning, and demonstrating real-world AI architecture patterns.
+These projects focus on building practical AI systems and experimenting with real-world architecture patterns, tools, and frameworks.
 
 ---
 
@@ -77,8 +77,3 @@ This repository will be expanded with additional projects covering:
 - AI agents and agentic workflows
 - Generative AI experiments
 
----
-
-## 👨‍💻 About
-
-These projects represent my hands-on exploration of **modern AI engineering and GenAI architectures**, with a focus on building practical systems rather than isolated model experiments.
