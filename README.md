@@ -63,6 +63,39 @@ The system uses multiple specialized AI agents to analyze a business idea and pr
 
 🔗 **[View Project →](https://github.com/dwai86/SolutionForge.AI)**
 
+
+---
+
+## ⚙️ MLOps
+
+### ❤️ Heart Disease MLOps
+
+An end-to-end MLOps pipeline for predicting heart disease risk using the UCI Cleveland Heart Disease dataset.
+
+The project demonstrates the complete machine learning lifecycle from data preparation and model training to experiment tracking, API serving, containerization, Kubernetes deployment, CI automation, and application monitoring.
+
+#### Key Concepts
+
+* End-to-end MLOps pipeline
+* Data preprocessing and feature engineering
+* Logistic Regression and Random Forest
+* Model evaluation and ROC-AUC
+* MLflow experiment tracking
+* Model artifact management
+* FastAPI model serving
+* Automated API testing
+* Docker containerization
+* GitHub Actions CI
+* Kubernetes deployment
+* Prometheus monitoring
+* Request and latency metrics
+
+#### Technology
+
+`Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` `Kubernetes` `Prometheus` `GitHub Actions`
+
+🔗 [View Project →](https://github.com/dwai86/mlops-heart-disease)
+
 ---
 
 ## 🔬 More Projects Coming Soon
