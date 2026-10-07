@@ -16,19 +16,19 @@ TravelMate takes a user's travel requirements and orchestrates multiple AI agent
 
 #### Key Concepts
 
-- LangGraph StateGraph
-- Agentic workflows
-- Shared state
-- Conditional routing
-- Parallel agent execution
-- Fan-out / fan-in
-- Tool calling
-- Web research
-- Structured LLM outputs
-- Human-in-the-loop
-- Interrupt and resume
-- Checkpointing
-- Workflow validation
+* LangGraph StateGraph
+* Agentic workflows
+* Shared state
+* Conditional routing
+* Parallel agent execution
+* Fan-out / fan-in
+* Tool calling
+* Web research
+* Structured LLM outputs
+* Human-in-the-loop
+* Interrupt and resume
+* Checkpointing
+* Workflow validation
 
 #### Technology
 
@@ -46,16 +46,16 @@ The system uses multiple specialized AI agents to analyze a business idea and pr
 
 #### Key Concepts
 
-- Multi-agent architecture
-- Agent collaboration
-- Business requirement analysis
-- Solution architecture
-- Technology recommendations
-- Open-source vs enterprise evaluation
-- Cost estimation
-- Team structure
-- Effort estimation
-- Delivery roadmap
+* Multi-agent architecture
+* Agent collaboration
+* Business requirement analysis
+* Solution architecture
+* Technology recommendations
+* Open-source vs enterprise evaluation
+* Cost estimation
+* Team structure
+* Effort estimation
+* Delivery roadmap
 
 #### Technology
 
@@ -63,16 +63,15 @@ The system uses multiple specialized AI agents to analyze a business idea and pr
 
 🔗 **[View Project →](https://github.com/dwai86/SolutionForge.AI)**
 
-
 ---
 
 ## ⚙️ MLOps
 
 ### ❤️ Heart Disease MLOps
 
-An end-to-end MLOps pipeline for predicting heart disease risk using the UCI Cleveland Heart Disease dataset.
+An end-to-end MLOps pipeline for predicting heart disease risk using the **UCI Cleveland Heart Disease dataset**.
 
-The project demonstrates the complete machine learning lifecycle from data preparation and model training to experiment tracking, API serving, containerization, Kubernetes deployment, CI automation, and application monitoring.
+The project demonstrates the complete machine learning lifecycle — from data preparation and model development to experiment tracking, model serving, containerization, Kubernetes deployment, CI automation, and application monitoring.
 
 #### Key Concepts
 
@@ -94,7 +93,7 @@ The project demonstrates the complete machine learning lifecycle from data prepa
 
 `Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` `Kubernetes` `Prometheus` `GitHub Actions`
 
-🔗 [View Project →](https://github.com/dwai86/mlops-heart-disease)
+🔗 **[View Project →](https://github.com/dwai86/mlops-heart-disease)**
 
 ---
 
@@ -102,11 +101,8 @@ The project demonstrates the complete machine learning lifecycle from data prepa
 
 This repository will be expanded with additional projects covering:
 
-- Retrieval-Augmented Generation (RAG)
-- LLM applications
-- NLP
-- MLOps
-- LLM evaluation
-- AI agents and agentic workflows
-- Generative AI experiments
-
+* Retrieval-Augmented Generation (RAG)
+* LLM applications
+* LLM evaluation
+* AI agents and agentic workflows
+* Generative AI experiments
